@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou o Álvaro 👋
 
-<!--
-**alvaroalejandro04/alvaroalejandro04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho experiência em suporte de TI, com foco em troubleshooting, atendimento ao cliente e análise de problemas.
 
-Here are some ideas to get you started:
+🔧 O que eu faço:
+- Suporte técnico e análise de incidentes  
+- Documentação e melhoria de processos  
+- Consultas básicas em SQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Atualmente estudando:
+- Governança de TI  
+- Segurança da Informação  
+
+🚀 Buscando evoluir na área de tecnologia e processos.
