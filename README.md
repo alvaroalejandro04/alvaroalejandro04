@@ -1,14 +1,20 @@
-# Olá, eu sou o Álvaro 👋
+# Hello, I'm Álvaro 👋
 
-Tenho experiência em suporte de TI, com foco em troubleshooting, atendimento ao cliente e análise de problemas.
+IT Support and Infrastructure professional with experience in troubleshooting, end-user support, and incident analysis within enterprise environments.
 
-🔧 O que eu faço:
-- Suporte técnico e análise de incidentes  
-- Documentação e melhoria de processos  
-- Consultas básicas em SQL  
+🔧 Core Expertise:
 
-📚 Atualmente estudando:
-- Governança de TI  
-- Segurança da Informação  
+- Technical support and incident troubleshooting
+- Log analysis and issue investigation
+- Process documentation and operational improvements
+- Basic SQL querying and data validation
+- Monitoring and infrastructure support
+- Customer communication and incident handling
 
-🚀 Buscando evoluir na área de tecnologia e processos.
+📚 Currently Focused On:
+
+- IT Governance
+- Information Security
+- Cloud and Microsoft ecosystem administration
+
+🚀 Continuously developing technical and operational skills with a strong focus on enterprise technology, support operations, and process optimization.
